@@ -1,6 +1,6 @@
 # ps-ControlWare1
 
-Resposta para o processo seletivo da ControlWare 
+Solução para o teste 1 do PS da ControlWare:
 
 # De acordo com o código abaixo, crie um Ajax mandando os dados para a url: teste/cliente.php usando JQuery:
 
