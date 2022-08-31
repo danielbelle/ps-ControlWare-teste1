@@ -1,6 +1,6 @@
 <?php
-$nome='123';
-$sobreNome='312';
+$nome='';
+$sobreNome='';
 
 $nome= $_POST['nome'];
 $sobreNome = $_POST['sobreNome'];
